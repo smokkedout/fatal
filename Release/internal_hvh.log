@@ -1,0 +1,360 @@
+﻿  In file included from features\aimbot.cpp:1:
+  In file included from features/../include_cheat.h:9:
+  In file included from features\bone_setup.cpp:1:
+  In file included from features/../include_cheat.h:9:
+  In file included from features\beams.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from DLLMain.cpp:1:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\aimbot.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\bone_setup.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\flashlight.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\beams.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\aimbot_helpers.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from DLLMain.cpp:1:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\aimbot.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\flashlight.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\bone_setup.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\beams.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\aimbot.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\bone_setup.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\aimbot_helpers.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\beams.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from DLLMain.cpp:1:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\flashlight.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from DLLMain.cpp:1:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\flashlight.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\aimbot_helpers.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\aimbot_helpers.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\bone_setup.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\aimbot.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\bone_setup.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\beams.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\aimbot.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\beams.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\bone_setup.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+  In file included from DLLMain.cpp:1:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/../features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/../features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/../features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\aimbot.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal  error : 'lua/api_def.h' file not found
+  In file included from DLLMain.cpp:1:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/../features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/../features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\flashlight.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\autostrafer.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\autostrafer.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\autostrafer.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\autostrafer.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\autostrafer.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\autostrafer.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\autostrafer.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+  In file included from features\beams.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+  In file included from features\entity_rendering.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\entity_rendering.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\entity_rendering.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\entity_rendering.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\entity_rendering.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\entity_rendering.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\entity_rendering.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+  In file included from features\antiaim.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\antiaim.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\antiaim.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+  In file included from features\console_log.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\console_log.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\console_log.cpp:1:
+  In file included from features/../include_cheat.h:16:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from features\antiaim.cpp:1:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\console_log.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\console_log.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\console_log.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\console_log.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+  In file included from features\flashlight.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\antiaim.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\aimbot_helpers.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\antiaim.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\animations.cpp:1:
+  In file included from features/../include_cheat.h:9:
+  In file included from features\chams.cpp:1:
+  In file included from features/../include_cheat.h:9:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\animations.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/memory.h(36,11): error : no member named 'ranges' in namespace 'std'
+  In file included from features\chams.cpp:1:
+  In file included from features/../include_cheat.h:10:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\animations.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/util.h(794,38): error : no template named 'optional' in namespace 'std'
+  In file included from features\chams.cpp:1:
+  In file included from features/../include_cheat.h:16:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/include_sdk.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/interfaces/interfaces.h:33:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(575,27): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features\animations.cpp:1:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/sdk/datatypes/../interfaces/IToolEntity.h(576,29): warning : default member initializer for bit-field is a C++20 extension [-Wc++20-extensions]
+  In file included from features/../include_cheat.h:18:
+  In file included from features\chams.cpp:1:
+  In file included from features/../include_cheat.h:18:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(378,14): error : no template named 'optional' in namespace 'std'
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\animations.cpp:1:
+  In file included from features/../include_cheat.h:20:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/misc/intersection.h(405,12): error : no viable conversion from returned value of type 'Vector' to function return type 'int'
+  In file included from features\chams.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:23:
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\chams.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/inventorychanger.h(10,16): warning : '<=>' is a single token in C++20; add a space to avoid a change in behavior [-Wc++20-compat]
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/inventorychanger.h(10,8): error : 'operator<=' cannot be the name of a variable or data member
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\chams.cpp:1:
+features/inventorychanger.h(10,18): error : expected ';' at end of declaration list
+  In file included from features\animations.cpp:1:
+  In file included from features/../include_cheat.h:20:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\animations.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from features\aimbot_helpers.cpp:1:
+  In file included from features/../include_cheat.h:20:
+  In file included from C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/features/include_features.h:35:
+features/playerperf.h(7,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+features/playerperf.h(24,54): warning : defaulted comparison operators are a C++20 extension [-Wc++20-extensions]
+  In file included from DLLMain.cpp:1:
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h(24,10): error : '../misc/input.h' file not found, did you mean 'misc/input.h'?
+C:\All\Programming\Source\Cheats4Games\CSGO\fatality_source-main (feb 2023)\internal_hvh/include_cheat.h(25,10): fatal  error : 'lua/api_def.h' file not found
+  In file included from features\flashlight.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+  In file included from features\aimbot_helpers.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
+  In file included from features\antiaim.cpp:1:
+features/../include_cheat.h(24,10): warning : #include resolved using non-portable Microsoft search rules as: features/../misc/input.h [-Wmicrosoft-include]
+features/../include_cheat.h(25,10): fatal error : 'lua/api_def.h' file not found
